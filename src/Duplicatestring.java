@@ -5,7 +5,7 @@ public class Duplicatestring {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String input_us = "abcmnpdabcabpef";
+		String input_us = "abcmnpdabmcabpef";
 		char [] input = input_us.toCharArray();
 		StringBuilder sb = new StringBuilder();
 		

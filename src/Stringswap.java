@@ -28,7 +28,7 @@ public class Stringswap {
 		// TODO Auto-generated method stub
 		Stringswap sw = new Stringswap();
 		sw.swapStr("abcde");
-		sw.swapStr("abcd");
+		sw.swapStr("abcdefk");
 
 	}
 
