@@ -16,6 +16,7 @@ public class Deleteduplicatechar {
 		for(char c:ch)
 		{
 			char_set.add(c);
+			//sb.append(char_set);			
 		}
 		
 		Iterator<Character> i =char_set.iterator();
