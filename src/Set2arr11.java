@@ -29,6 +29,7 @@ public class Set2arr11 {
 		String[] input2 = {"1","6","s","5"};
 		System.out.println(st.check(input1));
 		System.out.println(st.check(input2));
+		System.out.println("check");
 		
 
 	}
