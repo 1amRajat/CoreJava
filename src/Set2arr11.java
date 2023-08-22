@@ -25,11 +25,10 @@ public class Set2arr11 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Set2arr11 st = new Set2arr11();
-		String[] input1 = {"1","2","85"};
+		String[] input1 = {"1","6","2","85"};
 		String[] input2 = {"1","6","s","5"};
 		System.out.println(st.check(input1));
 		System.out.println(st.check(input2));
-		System.out.println("check");
 		
 
 	}
